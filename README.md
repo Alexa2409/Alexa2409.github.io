@@ -5,7 +5,7 @@
 <img align="left" src="avatar.png" alt="local" width="320" /> 
 
 ```csharp
-Alexa2409@github
+Lenalize@github
 -------------------------
 OS: Arch Linux x86_64
 Shell: zsh 5.7.1
