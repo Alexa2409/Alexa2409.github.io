@@ -17,7 +17,7 @@ Learning: Python, Swift, CPP
 Hobbies: Reading, Watching, Gaming
 Commits: ???
 Stars: ???
-Discord: Alexa.H#3170
+Discord: -
 
 
 
