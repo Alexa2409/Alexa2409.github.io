@@ -2,7 +2,7 @@
 > neofetch
 ```
 
-<img align="left" src="..." alt="local" width="320" /> 
+-->mg align="left" src="..." alt="local" width="320"
 
 ```csharp
 Lenalize@github
