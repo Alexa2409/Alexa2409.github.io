@@ -7,8 +7,8 @@
 ```csharp
 Lenalize@github
 -------------------------
-OS: Arch Linux x86_64
-Shell: zsh 5.7.1
+OS: MacOS 11.6.2
+Shell: zsh 5.9
 Location: Indonesia 
 Frameworks: CI
 Languages: JavaScript, HTML, CSS
