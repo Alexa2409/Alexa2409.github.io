@@ -14,8 +14,6 @@ Frameworks: CI
 Languages: JavaScript, HTML, CSS
 Learning: Python, Swift, CPP, Laravel
 Hobbies: Reading, Watching, Gaming, Coding, Sleeping
-Commits: 
-Stars: 
 Discord: elenlnz
 
 
