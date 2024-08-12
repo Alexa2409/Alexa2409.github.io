@@ -7,7 +7,7 @@
 ```csharp
 Lenalize@github
 -------------------------
-OS: MacOS 11.6.2
+OS: MacOS 13.6.9
 Shell: zsh 5.9
 Location: Indonesia 
 Frameworks: CI
